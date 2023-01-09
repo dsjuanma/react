@@ -1,0 +1,13 @@
+.NavbarContainer{
+    width: 100%;
+    background-color: aquamarine;
+    color: black;
+    
+}
+
+.liClassNavbar{
+    list-style: none;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+}
